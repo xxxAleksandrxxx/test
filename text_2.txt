@@ -1,0 +1,1 @@
+That is a text for new test_2.txt file in order to text my understandig how branching works
