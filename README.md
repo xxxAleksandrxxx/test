@@ -1,7 +1,8 @@
 <H1>Test H1 header</H1>
 <p> Test paragraph </p>
-<Div></Div>
-<H1>Below would be plain markdown</H1>
+<Div>
+<p>Below would be plain markdown</p>
+</Div>
 
 # That is H1 markdown header  
 ## That is H2 markdown header  
