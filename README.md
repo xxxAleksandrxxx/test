@@ -9,7 +9,7 @@
 
 That is some plain text without anything  
 
-Below would be test table  
+Below would be markdown test table  
 
 column 1 | column 2 | column 3
 -- | -- | --
